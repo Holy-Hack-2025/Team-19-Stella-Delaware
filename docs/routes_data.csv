@@ -1,0 +1,317 @@
+gemeente,route_id,route_name
+4617,834,Gent Sint-Pieters - Drongen - Leerne - Nevele-Lotenhulle
+4617,962,Regio Gent (West)
+4617,194,Arteveldestadion - Sint-Pietersstation - Blaarmeersen
+4617,500,Gent Sint-Pieters - Drongen - Eeklo - Maldegem - Brugge
+4617,839,Snelbus Gent Sint-Pieters - Drongen Mirto
+4617,681,Gent Rabot - Vinderhoute - Belzele - Evergem
+4617,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+4617,111,Blaarmeersen - Korenmarkt - Dampoort - Gentbrugge
+4617,128,Drongen Varendries - Korenmarkt - P+R Oostakker - Oostakker
+4617,833,Gent Sint-Pieters - Drongen - Leerne - Deinze
+4617,961,Regio Gent (Oost)
+4616,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+4616,741,Gent Sint-Pieters - Oostakker Edugo - Zaffelare - Lokeren
+4616,775,Deinze - St.-Martens-Latem - Gent - Lochristi - Beervelde
+4616,103,Mariakerke - Korenmarkt - Dampoort - Snellaertplein
+4616,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+4616,111,Blaarmeersen - Korenmarkt - Dampoort - Gentbrugge
+4616,335,Melle - Flora - Zuid - Dampoort - Destelbergen
+4616,785,Deinze - St.-Martens-Latem - Gent - Lochristi - Lokeren
+4616,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+4616,348,Gent Sint-Pieters - Destelbergen - Beervelde - Lokeren
+4616,765,De Pinte - Gent - Lochristi - Wachtebeke
+4616,349,Gent Sint-Pieters - Destelbergen - Kalken - Overmere-Zele
+4616,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+4616,128,Drongen Varendries - Korenmarkt - P+R Oostakker - Oostakker
+4616,961,Regio Gent (Oost)
+4616,161,Zuid - Macharius - Sint-Baafskouter
+4616,705,Zwijnaarde Technologiepark - Gent - Oostakker
+4616,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+4612,834,Gent Sint-Pieters - Drongen - Leerne - Nevele-Lotenhulle
+4612,194,Arteveldestadion - Sint-Pietersstation - Blaarmeersen
+4612,839,Snelbus Gent Sint-Pieters - Drongen Mirto
+4612,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+4612,716,Zingem - Lozer - Nazareth - Zevergem - Gent Sint-Pieters
+4612,205,Gent Sint-Pieters - Melle - Oordegem -Erpe Vijfhuizen -Aalst
+4612,335,Melle - Flora - Zuid - Dampoort - Destelbergen
+4612,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+4612,348,Gent Sint-Pieters - Destelbergen - Beervelde - Lokeren
+4612,605,Gent Rabot - Lovendegem - Zomergem (- Ursel)
+4612,349,Gent Sint-Pieters - Destelbergen - Kalken - Overmere-Zele
+4612,224,Gent Zuid - Melle Vogelhoek - Melle Station - Oosterzele
+4612,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+4612,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+4612,481,Gent Sint-Pieters - Merelbeke - Gavere - Zottegem
+4612,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+4612,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+4612,741,Gent Sint-Pieters - Oostakker Edugo - Zaffelare - Lokeren
+4612,486,Gent Sint-Pieters - Merelbeke - Gavere - Meilegem
+4612,103,Mariakerke - Korenmarkt - Dampoort - Snellaertplein
+4612,491,Gent Sint-Pieters - Merelbeke - Lemberge - Herzele
+4612,237,Gent Sint-Pieters - Heusden - Wetteren - Dendermonde
+4612,238,Gent Sint-Pieters - Melle - Wetteren - Dendermonde
+4612,111,Blaarmeersen - Korenmarkt - Dampoort - Gentbrugge
+4612,495,Gent Sint-Pieters - Merelbeke - Herzele (-Geraardsbergen)
+4612,239,Snelbus Gent Sint-Pieters - Melle - Kwatrecht Mariagaard
+4612,500,Gent Sint-Pieters - Drongen - Eeklo - Maldegem - Brugge
+4612,765,De Pinte - Gent - Lochristi - Wachtebeke
+4612,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+4612,128,Drongen Varendries - Korenmarkt - P+R Oostakker - Oostakker
+4612,1,Muidebrug - Gent Korenmarkt - Gentbrugge Stelplaats
+4612,2,Flanders Expo - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4612,3,Stelplaats - Ledeberg - Zuid - Sint-Pieters
+4612,775,Deinze - St.-Martens-Latem - Gent - Lochristi - Beervelde
+4612,907,Snelbus Gent Sint-Pieters - Mariakerke VISO-AHS
+4612,908,Gent Sint-Pieters - Rooigem - Mariakerke VISO-AHS
+4612,909,Gent Rabot - Mariakerke VISO-AHS
+4612,785,Deinze - St.-Martens-Latem - Gent - Lochristi - Lokeren
+4612,401,Gent Zuid - Flora - Merelbeke - Bottelare - Baaigem
+4612,405,Gent Zuid - Merelbeke Kwenenbos (- Bottelare - Baaigem)
+4612,24,Melle Leeuw - Gentbrugge Stelplaats
+4612,408,Gent Zuid - Baaigem - Munkzwalm - Brakel
+4612,27,Melle Leeuw - Zuid - Korenmarkt - Wondelgem - Evergem
+4612,28,Melle Leeuw - Zuid - Korenmarkt - Wondelgem
+4612,415,Gent Zuid - Merelbeke - Gavere - Oudenaarde
+4612,32,Zwijnaarde - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4612,161,Zuid - Macharius - Sint-Baafskouter
+4612,35,Zwijnaarde - Sint-Pietersstation - Kouter - Zuid - Moscou
+4612,681,Gent Rabot - Vinderhoute - Belzele - Evergem
+4612,42,Gent UZ - Sint-Pieters - Rabot - Muide - Lange Steenstraat
+4612,426,Gent Zuid - Merelbeke - Melle
+4612,555,Gent Sint-Pieters - Langerbrugge - Ertvelde - Zelzate
+4612,561,Gent Sint-Pieters - Evergem - Sleidinge - Watervliet
+4612,562,Gent Sint-Pieters - Evergem - Sleidinge-Waarschoot-Eeklo
+4612,563,Gent Zuid - Evergem - Ertvelde - Assenede - Boekhoute
+4612,564,Gent Zuid - Evergem - Ertvelde - Oosteeklo - Bassevelde
+4612,436,Gent Sint-Pieters - Merelbeke Flora - Merelbeke Kwenenbos
+4612,565,Gent Zuid - Evergem - Doornzele
+4612,566,Gent Zuid - Evergem - Sleidinge - Kaprijke - Eeklo
+4612,55,Gent UZ - Gentbrugge Stelplaats
+4612,57,Nieuw Gent - Zuid - Van Beverenplein - Wondelgem Station
+4612,58,Nieuw Gent - Zuid - Meulestede
+4612,65,Zuid - Sint-Jacobs - Ham - P+R Muide
+4612,705,Zwijnaarde Technologiepark - Gent - Oostakker
+4612,961,Regio Gent (Oost)
+4612,833,Gent Sint-Pieters - Drongen - Leerne - Deinze
+4612,45,Gent Lange Steenstraat - Muide - Rabot - Sint-Pieters - UZ
+4615,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+4615,741,Gent Sint-Pieters - Oostakker Edugo - Zaffelare - Lokeren
+4615,775,Deinze - St.-Martens-Latem - Gent - Lochristi - Beervelde
+4615,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+4615,795,Oostakker - Desteldonk - Wachtebeke - Zelzate
+4615,765,De Pinte - Gent - Lochristi - Wachtebeke
+4615,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+4615,128,Drongen Varendries - Korenmarkt - P+R Oostakker - Oostakker
+4615,961,Regio Gent (Oost)
+4615,705,Zwijnaarde Technologiepark - Gent - Oostakker
+4615,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+4615,785,Deinze - St.-Martens-Latem - Gent - Lochristi - Lokeren
+4624,962,Regio Gent (West)
+4624,35,Zwijnaarde - Sint-Pietersstation - Kouter - Zuid - Moscou
+4624,486,Gent Sint-Pieters - Merelbeke - Gavere - Meilegem
+4624,491,Gent Sint-Pieters - Merelbeke - Lemberge - Herzele
+4624,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+4624,427,Oudenaarde - Zwijnaarde - Gent
+4624,716,Zingem - Lozer - Nazareth - Zevergem - Gent Sint-Pieters
+4624,495,Gent Sint-Pieters - Merelbeke - Herzele (-Geraardsbergen)
+4624,500,Gent Sint-Pieters - Drongen - Eeklo - Maldegem - Brugge
+4624,765,De Pinte - Gent - Lochristi - Wachtebeke
+4624,32,Zwijnaarde - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4624,961,Regio Gent (Oost)
+4624,481,Gent Sint-Pieters - Merelbeke - Gavere - Zottegem
+4624,705,Zwijnaarde Technologiepark - Gent - Oostakker
+4611,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+4611,681,Gent Rabot - Vinderhoute - Belzele - Evergem
+4611,555,Gent Sint-Pieters - Langerbrugge - Ertvelde - Zelzate
+4611,561,Gent Sint-Pieters - Evergem - Sleidinge - Watervliet
+4611,562,Gent Sint-Pieters - Evergem - Sleidinge-Waarschoot-Eeklo
+4611,563,Gent Zuid - Evergem - Ertvelde - Assenede - Boekhoute
+4611,564,Gent Zuid - Evergem - Ertvelde - Oosteeklo - Bassevelde
+4611,565,Gent Zuid - Evergem - Doornzele
+4611,566,Gent Zuid - Evergem - Sleidinge - Kaprijke - Eeklo
+4611,24,Melle Leeuw - Gentbrugge Stelplaats
+4611,57,Nieuw Gent - Zuid - Van Beverenplein - Wondelgem Station
+4611,58,Nieuw Gent - Zuid - Meulestede
+4611,27,Melle Leeuw - Zuid - Korenmarkt - Wondelgem - Evergem
+4611,28,Melle Leeuw - Zuid - Korenmarkt - Wondelgem
+4611,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+4611,961,Regio Gent (Oost)
+4621,2,Flanders Expo - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4621,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+4621,3,Stelplaats - Ledeberg - Zuid - Sint-Pieters
+4621,35,Zwijnaarde - Sint-Pietersstation - Kouter - Zuid - Moscou
+4621,426,Gent Zuid - Merelbeke - Melle
+4621,205,Gent Sint-Pieters - Melle - Oordegem -Erpe Vijfhuizen -Aalst
+4621,237,Gent Sint-Pieters - Heusden - Wetteren - Dendermonde
+4621,238,Gent Sint-Pieters - Melle - Wetteren - Dendermonde
+4621,335,Melle - Flora - Zuid - Dampoort - Destelbergen
+4621,401,Gent Zuid - Flora - Merelbeke - Bottelare - Baaigem
+4621,436,Gent Sint-Pieters - Merelbeke Flora - Merelbeke Kwenenbos
+4621,405,Gent Zuid - Merelbeke Kwenenbos (- Bottelare - Baaigem)
+4621,55,Gent UZ - Gentbrugge Stelplaats
+4621,24,Melle Leeuw - Gentbrugge Stelplaats
+4621,408,Gent Zuid - Baaigem - Munkzwalm - Brakel
+4621,27,Melle Leeuw - Zuid - Korenmarkt - Wondelgem - Evergem
+4621,28,Melle Leeuw - Zuid - Korenmarkt - Wondelgem
+4621,415,Gent Zuid - Merelbeke - Gavere - Oudenaarde
+4621,32,Zwijnaarde - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4621,224,Gent Zuid - Melle Vogelhoek - Melle Station - Oosterzele
+4621,1,Muidebrug - Gent Korenmarkt - Gentbrugge Stelplaats
+4621,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+4621,961,Regio Gent (Oost)
+4619,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+4619,2,Flanders Expo - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4619,3,Stelplaats - Ledeberg - Zuid - Sint-Pieters
+4619,35,Zwijnaarde - Sint-Pietersstation - Kouter - Zuid - Moscou
+4619,426,Gent Zuid - Merelbeke - Melle
+4619,205,Gent Sint-Pieters - Melle - Oordegem -Erpe Vijfhuizen -Aalst
+4619,237,Gent Sint-Pieters - Heusden - Wetteren - Dendermonde
+4619,238,Gent Sint-Pieters - Melle - Wetteren - Dendermonde
+4619,111,Blaarmeersen - Korenmarkt - Dampoort - Gentbrugge
+4619,335,Melle - Flora - Zuid - Dampoort - Destelbergen
+4619,401,Gent Zuid - Flora - Merelbeke - Bottelare - Baaigem
+4619,436,Gent Sint-Pieters - Merelbeke Flora - Merelbeke Kwenenbos
+4619,405,Gent Zuid - Merelbeke Kwenenbos (- Bottelare - Baaigem)
+4619,55,Gent UZ - Gentbrugge Stelplaats
+4619,24,Melle Leeuw - Gentbrugge Stelplaats
+4619,408,Gent Zuid - Baaigem - Munkzwalm - Brakel
+4619,27,Melle Leeuw - Zuid - Korenmarkt - Wondelgem - Evergem
+4619,28,Melle Leeuw - Zuid - Korenmarkt - Wondelgem
+4619,415,Gent Zuid - Merelbeke - Gavere - Oudenaarde
+4619,224,Gent Zuid - Melle Vogelhoek - Melle Station - Oosterzele
+4619,32,Zwijnaarde - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4619,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+4619,961,Regio Gent (Oost)
+4619,1,Muidebrug - Gent Korenmarkt - Gentbrugge Stelplaats
+1378,834,Gent Sint-Pieters - Drongen - Leerne - Nevele-Lotenhulle
+1378,962,Regio Gent (West)
+1378,194,Arteveldestadion - Sint-Pietersstation - Blaarmeersen
+1378,839,Snelbus Gent Sint-Pieters - Drongen Mirto
+1378,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+1378,716,Zingem - Lozer - Nazareth - Zevergem - Gent Sint-Pieters
+1378,205,Gent Sint-Pieters - Melle - Oordegem -Erpe Vijfhuizen -Aalst
+1378,335,Melle - Flora - Zuid - Dampoort - Destelbergen
+1378,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+1378,348,Gent Sint-Pieters - Destelbergen - Beervelde - Lokeren
+1378,605,Gent Rabot - Lovendegem - Zomergem (- Ursel)
+1378,349,Gent Sint-Pieters - Destelbergen - Kalken - Overmere-Zele
+1378,224,Gent Zuid - Melle Vogelhoek - Melle Station - Oosterzele
+1378,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+1378,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+1378,481,Gent Sint-Pieters - Merelbeke - Gavere - Zottegem
+1378,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+1378,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+1378,741,Gent Sint-Pieters - Oostakker Edugo - Zaffelare - Lokeren
+1378,486,Gent Sint-Pieters - Merelbeke - Gavere - Meilegem
+1378,103,Mariakerke - Korenmarkt - Dampoort - Snellaertplein
+1378,491,Gent Sint-Pieters - Merelbeke - Lemberge - Herzele
+1378,237,Gent Sint-Pieters - Heusden - Wetteren - Dendermonde
+1378,238,Gent Sint-Pieters - Melle - Wetteren - Dendermonde
+1378,111,Blaarmeersen - Korenmarkt - Dampoort - Gentbrugge
+1378,495,Gent Sint-Pieters - Merelbeke - Herzele (-Geraardsbergen)
+1378,239,Snelbus Gent Sint-Pieters - Melle - Kwatrecht Mariagaard
+1378,500,Gent Sint-Pieters - Drongen - Eeklo - Maldegem - Brugge
+1378,765,De Pinte - Gent - Lochristi - Wachtebeke
+1378,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+1378,128,Drongen Varendries - Korenmarkt - P+R Oostakker - Oostakker
+1378,1,Muidebrug - Gent Korenmarkt - Gentbrugge Stelplaats
+1378,2,Flanders Expo - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+1378,3,Stelplaats - Ledeberg - Zuid - Sint-Pieters
+1378,775,Deinze - St.-Martens-Latem - Gent - Lochristi - Beervelde
+1378,907,Snelbus Gent Sint-Pieters - Mariakerke VISO-AHS
+1378,908,Gent Sint-Pieters - Rooigem - Mariakerke VISO-AHS
+1378,909,Gent Rabot - Mariakerke VISO-AHS
+1378,785,Deinze - St.-Martens-Latem - Gent - Lochristi - Lokeren
+1378,401,Gent Zuid - Flora - Merelbeke - Bottelare - Baaigem
+1378,405,Gent Zuid - Merelbeke Kwenenbos (- Bottelare - Baaigem)
+1378,24,Melle Leeuw - Gentbrugge Stelplaats
+1378,408,Gent Zuid - Baaigem - Munkzwalm - Brakel
+1378,27,Melle Leeuw - Zuid - Korenmarkt - Wondelgem - Evergem
+1378,795,Oostakker - Desteldonk - Wachtebeke - Zelzate
+1378,28,Melle Leeuw - Zuid - Korenmarkt - Wondelgem
+1378,415,Gent Zuid - Merelbeke - Gavere - Oudenaarde
+1378,32,Zwijnaarde - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+1378,161,Zuid - Macharius - Sint-Baafskouter
+1378,35,Zwijnaarde - Sint-Pietersstation - Kouter - Zuid - Moscou
+1378,681,Gent Rabot - Vinderhoute - Belzele - Evergem
+1378,42,Gent UZ - Sint-Pieters - Rabot - Muide - Lange Steenstraat
+1378,426,Gent Zuid - Merelbeke - Melle
+1378,555,Gent Sint-Pieters - Langerbrugge - Ertvelde - Zelzate
+1378,427,Oudenaarde - Zwijnaarde - Gent
+1378,561,Gent Sint-Pieters - Evergem - Sleidinge - Watervliet
+1378,562,Gent Sint-Pieters - Evergem - Sleidinge-Waarschoot-Eeklo
+1378,563,Gent Zuid - Evergem - Ertvelde - Assenede - Boekhoute
+1378,564,Gent Zuid - Evergem - Ertvelde - Oosteeklo - Bassevelde
+1378,436,Gent Sint-Pieters - Merelbeke Flora - Merelbeke Kwenenbos
+1378,565,Gent Zuid - Evergem - Doornzele
+1378,566,Gent Zuid - Evergem - Sleidinge - Kaprijke - Eeklo
+1378,55,Gent UZ - Gentbrugge Stelplaats
+1378,57,Nieuw Gent - Zuid - Van Beverenplein - Wondelgem Station
+1378,58,Nieuw Gent - Zuid - Meulestede
+1378,961,Regio Gent (Oost)
+1378,65,Zuid - Sint-Jacobs - Ham - P+R Muide
+1378,833,Gent Sint-Pieters - Drongen - Leerne - Deinze
+1378,705,Zwijnaarde Technologiepark - Gent - Oostakker
+1378,45,Gent Lange Steenstraat - Muide - Rabot - Sint-Pieters - UZ
+4608,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+4608,795,Oostakker - Desteldonk - Wachtebeke - Zelzate
+4608,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+4608,961,Regio Gent (Oost)
+4622,834,Gent Sint-Pieters - Drongen - Leerne - Nevele-Lotenhulle
+4622,962,Regio Gent (West)
+4622,127,Leerne - Drongen - Korenmarkt - P+R Oostakker - Achtendries
+4622,833,Gent Sint-Pieters - Drongen - Leerne - Deinze
+4614,98,Wondelgem - Mariakerke - Sint-Pietersstation - Gentbrugge
+4614,962,Regio Gent (West)
+4614,103,Mariakerke - Korenmarkt - Dampoort - Snellaertplein
+4614,681,Gent Rabot - Vinderhoute - Belzele - Evergem
+4614,908,Gent Sint-Pieters - Rooigem - Mariakerke VISO-AHS
+4614,605,Gent Rabot - Lovendegem - Zomergem (- Ursel)
+4614,909,Gent Rabot - Mariakerke VISO-AHS
+4614,961,Regio Gent (Oost)
+4614,97,Wondelgem - Kolegem - Sint-Pietersstation - Gentbrugge
+4620,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+4620,961,Regio Gent (Oost)
+4623,2,Flanders Expo - Sint-Pieters - Zuid - Ledeberg - Stelplaats
+4623,962,Regio Gent (West)
+4623,775,Deinze - St.-Martens-Latem - Gent - Lochristi - Beervelde
+4623,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+4623,765,De Pinte - Gent - Lochristi - Wachtebeke
+4623,785,Deinze - St.-Martens-Latem - Gent - Lochristi - Lokeren
+4623,961,Regio Gent (Oost)
+1377,738,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Overslag
+1377,795,Oostakker - Desteldonk - Wachtebeke - Zelzate
+1377,961,Regio Gent (Oost)
+1377,737,Gent Sint-Pieters - Oostakker Edugo - Wachtebeke - Zelzate
+4609,795,Oostakker - Desteldonk - Wachtebeke - Zelzate
+4609,961,Regio Gent (Oost)
+10340,418,Oudenaarde - Zingem - Ouwegem - Nazareth - Eke
+10340,962,Regio Gent (West)
+10340,968,Regio Vlaamse Ardennen
+10340,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+10340,811,Deinze - Nazareth - Gavere - Hundelgem - Zottegem
+10340,427,Oudenaarde - Zwijnaarde - Gent
+10340,716,Zingem - Lozer - Nazareth - Zevergem - Gent Sint-Pieters
+10340,812,Oudenaarde - Zingem - Ouwegem - Nazareth - Deinze
+10340,813,Deinze - Nazareth - Eke - Semmerzake - Gavere - Zingem
+10340,814,Deinze - Nazareth - Zevergem Pont-Noord
+10340,345,(Leerne/De Pinte-) Gent - Destelbergen - Laarne-Wetteren
+10340,765,De Pinte - Gent - Lochristi - Wachtebeke
+10340,961,Regio Gent (Oost)
+4607,962,Regio Gent (West)
+4607,551,Evergem - Sleidinge - Ertvelde - Zelzate
+4607,555,Gent Sint-Pieters - Langerbrugge - Ertvelde - Zelzate
+1172,962,Regio Gent (West)
+1172,563,Gent Zuid - Evergem - Ertvelde - Assenede - Boekhoute
+1172,564,Gent Zuid - Evergem - Ertvelde - Oosteeklo - Bassevelde
+1172,551,Evergem - Sleidinge - Ertvelde - Zelzate
+1172,952,Eeklo - Lembeke - Oosteeklo - Ertvelde - Stoepe - Zelzate
+1172,555,Gent Sint-Pieters - Langerbrugge - Ertvelde - Zelzate
+1717,962,Regio Gent (West)
+1717,715,Deinze - Nazareth - Zwijnaarde Klosse - Gent - Oostakker
+1717,427,Oudenaarde - Zwijnaarde - Gent
+1717,716,Zingem - Lozer - Nazareth - Zevergem - Gent Sint-Pieters
+1717,765,De Pinte - Gent - Lochristi - Wachtebeke
+1717,814,Deinze - Nazareth - Zevergem Pont-Noord
+1717,961,Regio Gent (Oost)
