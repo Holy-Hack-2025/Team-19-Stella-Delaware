@@ -45,7 +45,8 @@ Example:
 - `bus_stops.csv` - Lists all bus stops and line routes.
 
 ## Acknowledgments
- All links to data sources used in this project can be found in the Research.md file.
+ All links to data sources used in this project can be found in the Research.md file. Additionally, the team provides a link to our Google Drive, containing our Business Plan, Initial Brainstorming and our Pitch Presentation:
+- https://drive.google.com/drive/folders/1c9wmD0LuZBLU6GWvMaRNKdre37kEsDC-?usp=sharing
 
 ## Created By
 Team 19 of the Holy hackathon 2025
