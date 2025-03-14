@@ -1,37 +1,58 @@
-# Holy Hack - repo team Stella
-Welcome to your personal Holy Hack GitHub repository! This serves as a central hub for submitting your code to be reviewed during the judging sessions. You should modify this README file to better explain your project to the judges, making it easier for them to understand your work.
+# SwiftLijn
 
-## 🚀 Getting Started
+## Table of Contents
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Data Sources](#data-sources)
+- [Acknowledgments](#acknowledgments)
+- [Created By](#created-by)
 
-Each team will be given its own repository within the **Holy Hack** GitHub organization, this is your personal repo. Follow these steps to participate:
+## About
+SwiftLijn is an AI-powered bus stop and route optimization solution designed for De Lijn. Our system detects low-density bus stops where demand is minimal and optimizes public transport routes to improve efficiency, reduce costs, and cut traffic congestion in Belgium.
 
-1. **Clone this repository to your local machine using**:
+By integrating population density analysis, historical ridership data, and multi-modal transport optimization, SwiftLijn enables De Lijn to operate a cost-effective, passenger-focused transport network.
+
+## Installation
+1. Clone the repository:
    ```sh
-   git clone https://github.com/HOLY-HACK-ORGANIZATION/YOUR-TEAM-REPO.git
+   git clone https://github.com/Holy-Hack-2025/Team-19-Stella-Delaware.git
    ```
-2. **Add your project files to the appropriate directory in your team's repository**.
-3. **Commit and push your changes**:
+2. Install dependencies:
    ```sh
-   git add .
-   git commit -m "added my feature"
-   git push origin my-feature
+   pip install -r requirements.txt
+   npm install
    ```
-4. **Submit a pull request (PR)** to your team's repository for code review and merge.
 
-## Repository Structure (Per Team)
+## Usage
+To obtain population density data, run the Jupyter density application and execute all cells. Similarly, for the Proof of Concept (POC), open the Jupyter notebook and run all cells to complete the process.
 
+## Configuration
+To configure this project, you will need to set up the following environment variables in a .env file:
 ```
-YOUR-TEAM-REPO/
-│-- README.md # Documentation for your team's project
-│-- src/ # source directory
-│-- docs/ # Additional documentation or assets
+DE_LIJN_API_KEY=your-de-lijn-api-key-here
+GEMINI_API_KEY=your-gemini-api-key-here
 ```
+These keys are required for accessing the necessary APIs used in SwiftLijn.
 
-## Contribution Guidelines
+## Data Sources
+List and describe any external data files, APIs, or other dependencies.
 
-- Make sure your code is clean and well documented.
-- Follow coding standards and best practices.
-- Submit your projects before the 16:00 deadline.
+Example:
+- `stadswijen-gent.geojson` - Contains boundary data.
+- `PopulationDensity.json` - Stores population density.
+- `bus_stops.csv` - Lists all bus stops and line routes.
 
-## ❓ Need help?
-If you have any questions, you can contact the github guru's.
+## Acknowledgments
+ All links to data sources used in this project can be found in the Research.md file.
+
+## Created By
+Team 19 of the Holy hackathon 2025
+   - Dimova Alina  
+   - Gerbreders Eriks
+   - Mumladze Daniil 
+   - Solovyova Aleksia 
+   - Tuffin Alec
+
+
